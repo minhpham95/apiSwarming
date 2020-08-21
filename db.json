@@ -1,0 +1,132 @@
+{
+    "3587968": {
+        "time": "2020-08-21 07:30:13.488671",
+        "old_assigned": "Alex PHAM",
+        "profile": null
+    },
+    "3588125": {
+        "time": "2020-08-21 07:46:18.157103",
+        "cleaned_text": "spe sv ue key down url asp server ext",
+        "reco": [
+            {
+                "userid": 2684,
+                "prediction": 0.9595242738723755,
+                "onShift": 1,
+                "username": "Mike NGUYEN"
+            },
+            {
+                "userid": 2133,
+                "prediction": 0.9514982104301453,
+                "onShift": 1,
+                "username": "Hien The NGUYEN"
+            },
+            {
+                "userid": 1984,
+                "prediction": 0.9513890147209167,
+                "onShift": 1,
+                "username": "Chandrakant JOWATA"
+            }
+        ],
+        "profile": "Microsoft"
+    },
+    "3588128": {
+        "time": "2020-08-21 07:49:18.737302",
+        "cleaned_text": "instance backup",
+        "reco": [
+            {
+                "userid": 2557,
+                "prediction": 0.8763467073440552,
+                "onShift": 1,
+                "username": "Sern Viet DANG"
+            },
+            {
+                "userid": 2603,
+                "prediction": 0.8556864261627197,
+                "onShift": 1,
+                "username": "Lalit SHAKTAWAT"
+            },
+            {
+                "userid": 2727,
+                "prediction": 0.8260546922683716,
+                "onShift": 1,
+                "username": "Thanh Tin TRAN"
+            }
+        ],
+        "profile": "Linux"
+    },
+    "3588134": {
+        "time": "2020-08-21 08:00:19.914729",
+        "cleaned_text": "url content ko",
+        "reco": [
+            {
+                "userid": 2603,
+                "prediction": 0.9856828451156616,
+                "onShift": 1,
+                "username": "Lalit SHAKTAWAT"
+            },
+            {
+                "userid": 2442,
+                "prediction": 0.9737134575843811,
+                "onShift": 1,
+                "username": "Shufeeullah RUSTOM"
+            },
+            {
+                "userid": 2461,
+                "prediction": 0.9689376950263977,
+                "onShift": 1,
+                "username": "Romesh BALLUCK"
+            }
+        ],
+        "profile": "Linux"
+    },
+    "3588154": {
+        "time": "2020-08-21 08:12:14.040629",
+        "cleaned_text": "url",
+        "reco": [
+            {
+                "userid": 2557,
+                "prediction": 0.693869411945343,
+                "onShift": 1,
+                "username": "Sern Viet DANG"
+            },
+            {
+                "userid": 2603,
+                "prediction": 0.6817210912704468,
+                "onShift": 1,
+                "username": "Lalit SHAKTAWAT"
+            },
+            {
+                "userid": 2442,
+                "prediction": 0.6636227965354919,
+                "onShift": 1,
+                "username": "Shufeeullah RUSTOM"
+            }
+        ],
+        "profile": "Linux"
+    },
+    "3588155": {
+        "time": "2020-08-21 08:12:23.875561",
+        "cleaned_text": "azure logic apps run failure percentage",
+        "reco": [
+            {
+                "userid": 2133,
+                "prediction": 0.9946388006210327,
+                "onShift": 1,
+                "username": "Hien The NGUYEN"
+            },
+            {
+                "userid": 1984,
+                "prediction": 0.9891195297241211,
+                "onShift": 1,
+                "username": "Chandrakant JOWATA"
+            },
+            {
+                "userid": 2684,
+                "prediction": 0.9891365766525269,
+                "onShift": 1,
+                "username": "Mike NGUYEN"
+            }
+        ],
+        "profile": "Microsoft"
+    }
+}
